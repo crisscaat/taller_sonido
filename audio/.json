@@ -1,0 +1,6 @@
+[
+  {"url":"ave/ave_001.wav","type":"audio","bank":"ave", "n":0},
+  {"url":"gatos/ron_001.wav","type":"audio","bank":"ron", "n":0},
+  {"url":"ond/onda_001.wav","type":"audio","bank":"ond", "n":0},
+  {"url":"reloj/tic_001.wav","type":"audio","bank":"tic", "n":0},
+  {"url":"teclado/tlec_001.wav","type":"audio","bank":"tlec", "n":0}
